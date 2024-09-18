@@ -1,5 +1,5 @@
 # vgmPC 0.1
-VGM Player for Cardputer.<br>
+VGM Player for Cardputer. work like [this](https://x.com/layer812/status/1835197470080745917)<br>
 It can plays [VGM files](https://en.wikipedia.org/wiki/VGM_(file_format)) from SDcard in your [Cardputer](https://shop.m5stack.com/products/m5stack-cardputer-kit-w-m5stamps3).<br>
 ## Install
 1.Install [M5burner](https://docs.m5stack.com/en/uiflow/m5burner/intro)<br>
@@ -8,11 +8,12 @@ It can plays [VGM files](https://en.wikipedia.org/wiki/VGM_(file_format)) from S
 ## Usage
 1.Push 'M' Button, you can see help.<br>
 <img width="50%" src ="https://github.com/user-attachments/assets/918f5fae-82bd-41a4-992f-5c931f41d8e9">
+2.Select file by 'Cursor key'(Up/Down). Hit 'Space Key' to Start/Stop playing.
 ## Limitations (things to do)
 This software as No warranty.
 - Supported chip are 'YM2151', 'YM2612', 'OKI MSM6258', 'SCC+', 'SN76489' and 'AY-38910(YM2149)'
 - Not support Dual (same) chip, DAC stream, Loop count....
-- Limit number, File size < 3MB, files in the directory < 255, directory depth < 5. Path name < 255. Free of SD > 3MB.
+- Limit numbers, File size < 3MB, files in the directory < 255, directory depth < 5. Path name < 255. Free of SD > 3MB.
 - Contains bugs...
 ## Thanks
 - [Hiromasa](https://another.maple4ever.net/)
