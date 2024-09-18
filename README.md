@@ -12,7 +12,7 @@ It can plays [VGM files](https://en.wikipedia.org/wiki/VGM_(file_format)) from S
 This software as No warranty.
 - Supported chip are 'YM2151', 'YM2612', 'OKI MSM6258', 'SCC+', 'SN76489' and 'AY-38910(YM2149)'
 - Not support Dual (same) chip, DAC stream, Loop count....
-- Limit of number, File size < 3MB, files in the directory < 255, directory depth < 5. File path name < 255.
+- Limit number, File size < 3MB, files in the directory < 255, directory depth < 5. Path name < 255. Free of SD > 3MB.
 - Contains bugs...
 ## Thanks
 - [Hiromasa](https://another.maple4ever.net/)
