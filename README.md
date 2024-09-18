@@ -7,7 +7,7 @@ It can plays [VGM files](https://en.wikipedia.org/wiki/VGM_(file_format)) from S
 3.After flush the image, put vgm files to SD card (FAT32 formatted) and power on.
 ## Usage
 1.Push 'M' Button, you can see help.<br>
-<img width="50%" src ="https://github.com/user-attachments/assets/918f5fae-82bd-41a4-992f-5c931f41d8e9">
+<img width="50%" src ="https://github.com/user-attachments/assets/918f5fae-82bd-41a4-992f-5c931f41d8e9"><br>
 2.Select file by 'Cursor key'(Up/Down). Hit 'Space Key' to Start/Stop playing.
 ## Limitations (things to do)
 This software as No warranty.
