@@ -1,6 +1,9 @@
 # vgmPC 0.1
 VGM Player for Cardputer. work like [this](https://x.com/layer812/status/1835197470080745917)<br>
 It can plays [VGM files](https://en.wikipedia.org/wiki/VGM_(file_format)) from SDcard in your [Cardputer](https://shop.m5stack.com/products/m5stack-cardputer-kit-w-m5stamps3).<br>
+
+This project has been archived. See [vgmM5](https://github.com/Layer812/vgmM5) <br>
+
 ## Install
 1.Install [M5burner](https://docs.m5stack.com/en/uiflow/m5burner/intro)<br>
 2.Put share code 'cGlGK8AhnZJiErm6' to User Custom/Share Burn.<br>
